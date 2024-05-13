@@ -1,2 +1,2 @@
 # BouncingBalls
-A simple implementation of simulation of elastic collision in Python.
+An visualization of elastic collision simulation in Python.
